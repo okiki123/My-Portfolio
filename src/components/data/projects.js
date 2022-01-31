@@ -38,7 +38,7 @@ export const ProjectData = [
     {
         id: 5,
         title: "Covid-19 Update",
-        about: "",
+        about: "A website that gives statistics about covid-19 using Reactjs",
         tags: ["Reactjs"],
         demo: "https://covid19-update-okiki.netlify.app/",
         github: "https://github.com/okiki123/Covid19-Tracker",
